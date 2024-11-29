@@ -8,6 +8,9 @@ gem "rails", "~> 7.0.0"
 
 gem 'semantic-ui-sass'
 gem 'jquery-rails'
+gem 'bigdecimal'
+gem 'mutex_m'
+
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
